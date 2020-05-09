@@ -9,7 +9,7 @@
 
 ## Credits
 
-- The template is from [HTML5 UP](html5up.net) by @ajlkn
+- The template is from [HTML5 UP](https://html5up.net/) by @ajlkn
 - The photos are from [unsplash.com](https://unsplash.com/) by @dhaval, @giuvicente, @mitchures, @benkolde, @grakozy, @theformfitness
 - Other:
 	- Font Awesome (fontawesome.io)
